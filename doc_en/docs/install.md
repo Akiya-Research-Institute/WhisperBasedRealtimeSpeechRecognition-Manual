@@ -1,6 +1,6 @@
 # Installation
 
-1. Purchase at [UE Marketplace](https://www.unrealengine.com/marketplace/product/d293a6a427c94831888ca0f47bc5939b) and install it.
+1. Purchase at [Fab](https://www.fab.com/listings/86ece157-4a33-4f84-b215-01e8dbf4d090) and install it.
 2. Create an Unreal Engine project.
 3. Open the project, open `Edit > Plugins` on the editor menu, enable `WhisperRealtime: Whisper-based Real-time Speech Recognition`, and restart the project.
 

@@ -1,10 +1,13 @@
 # System Requirements
 
-## Supported Unreal Engine version:
+## Supported UE versions
 
 - 5.2
 - 5.3
 - 5.4
+
+However, it cannot be used at the same time as the official "NNERuntimeORT" plugin.  
+In UE5.5 or later, "NNERuntimeORT", which is enabled by default, must be disabled.
 
 ## Supported Platforms
 
